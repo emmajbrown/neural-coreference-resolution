@@ -5,6 +5,4 @@ Implement parts of a Pytorch implementation for neural coreference resolution.
 2) Neural coreference
 3) Incorporate distance
 4) Design a fancier model
-  -Number agreement
-  -Gender agreement
-  -Span width + distance between spans
+  -Number agreement, gender agreement, span width + distance between spans
